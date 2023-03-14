@@ -142,6 +142,6 @@
     "zone.js": "~0.11.4"
   },
   "dependencies": {
-    "webpack": "^5.51.1"
+    "webpack": "^5.76.0"
   }
 }
